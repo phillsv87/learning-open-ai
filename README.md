@@ -9,6 +9,7 @@ Secrets should be stored in the secrets/shell-secrets.sh
 ``` sh
 #secrets/shell-secrets.sh
 export OPENAI_API_KEY='sk-*****'
+export OPENAI_API_ORG='org-****'
 ```
 
 ## Tools
